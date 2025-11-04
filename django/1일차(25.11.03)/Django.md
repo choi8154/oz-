@@ -25,3 +25,5 @@ MVT 구조
 # 설계 아키텍쳐
 브라우저 -> webserver -> urls.py -> views.py -> models.py -> db -> models.py
  -> views.py -> template -> views.py -> web server -> 브라우저
+
+설정 : django-admin startproject config
