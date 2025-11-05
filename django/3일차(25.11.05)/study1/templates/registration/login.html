@@ -8,7 +8,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>{{ bookmark.name }} 페이지 입니다.</h1>
-    <a href="{{ bookmark.url }}" target="_blank">link</a>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button>submit</button>
+    </form>
 </body>
 </html>
