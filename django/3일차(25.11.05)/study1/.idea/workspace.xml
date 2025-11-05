@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c01167b8-1627-4ab0-9d42-d7ce4ea12d67" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../공부/django/3일차(25.11.05)/study1/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../공부/django/3일차(25.11.05)/study1/templates/registration/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../공부/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/.idea/1일차(25.11.04).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/.idea/study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/.python-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/bookmark/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/bookmark/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/bookmark/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/bookmark/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/bookmark/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/bookmark/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/bookmark/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/bookmark/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/config/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/templates/bookmark_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/study/templates/bookmark_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/.idea/task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/.python-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/config/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/templates/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/templates/task_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/todo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/todo/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/todo/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/todo/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/todo/migrations/0002_rename_is_complete_todo_is_completed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/todo/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/todo/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/todo/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../공부/django/1일차(25.11.04)/task/todo/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../공부" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="352NJ84lbuGbM976k88aWRGYPtA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.python.django.customization.DjangoModulesConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../../공부/django/3일차(25.11.05)/study1/templates/registration" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="study1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../공부/django/3일차(25.11.05)/study1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../공부/django/3일차(25.11.05)/study1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PY-252.26199.168" />
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="c01167b8-1627-4ab0-9d42-d7ce4ea12d67" name="변경" comment="" />
+      <created>1762304131348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762304131348</updated>
+      <workItem from="1762304132482" duration="15036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/study1$main.coverage" NAME="main 커버리지 결과" MODIFIED="1762312971109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../공부/django/3일차(25.11.05)/study1" />
+  </component>
+</project>
