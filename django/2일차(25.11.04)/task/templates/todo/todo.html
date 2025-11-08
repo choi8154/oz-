@@ -64,7 +64,7 @@
         {% if request.user.is_authenticated %}
         <h1>{{ request.user.username }}의 Todo List</h1>
         <ul>
-            {% for todo in data %}
+            {% for todo in result %}
                 <li><a href="{% url 'todo_info' todo.id %}">{{ todo.title }}</a></li>
             {% endfor %}
         </ul>
