@@ -15,4 +15,5 @@ urlpatterns = [
     path('accounts/signup/', user_views.sign_up, name='signup'),
     # CBV URL include
     path('cbv/', include('todo.urls')),
+    path('summernote/', include('django_summernote.urls')),
 ]
