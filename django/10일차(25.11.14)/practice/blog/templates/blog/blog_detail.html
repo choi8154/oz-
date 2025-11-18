@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><a href="{% url 'blog_list' %}">목록으로 돌아가기</a></h1>
+    <p><a href="{% url 'blog_put' pk=blog.pk %}">수정</a></p>
+    <h2>{{ blog.title }}</h2>
+    <p>{{ blog.created_at }}</p>
+    <p>{{ blog.content }}</p>
+</body>
+</html>

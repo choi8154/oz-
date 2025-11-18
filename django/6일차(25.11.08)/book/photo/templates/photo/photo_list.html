@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><a href="">사진 목록 페이지</a></h1>
+    <h3><a href="{% url 'photo_post' %}">new photo</a></h3>
+    <section>
+        {% for p in photos %}
+        <div>
+            <h2>
+                <a href="{% url 'photo_detail' pk=p.pk %}">{{ p.title }}</a>
+            </h2>
+            <img src="{{ p.image }}" alt="{{ p.title }}" width="300">
+            <p>{{ p.author }}, {{ p.price }}원</p>
+        </div>
+        {% endfor %}
+    </section>
+</body>
+</html>

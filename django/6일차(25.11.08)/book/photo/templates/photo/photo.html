@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phto App</title>
+</head>
+<body>
+    <h1>{{ photo.title }}</h1>
+    <p><a href="{% url 'photo_edit' pk=photo.pk %}">Photo Edit</a></p>
+    <p><a href="/">목록으로 돌아가기</a></p>
+    <section>
+        <div>
+            <img src="{{ photo.image }}" alt="{{ photo.title }}" width="300">
+            <p>{{ photo.description }}</p>
+            <p>{{ photo.author }}, {{ photo.price }}원</p>
+        </div>
+    </section>
+</body>
+</html>
